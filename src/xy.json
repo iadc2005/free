@@ -1,0 +1,4889 @@
+[
+    {
+        "Item": 1.0,
+        "Defect Comment": "功率柜的底板上有蓝色的污渍",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": "Design Issue"
+    },
+    {
+        "Item": 2.0,
+        "Defect Comment": "VFD1端子排上的204与299缺少短接片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": "Supplier"
+    },
+    {
+        "Item": 3.0,
+        "Defect Comment": "CB10的第4点的415A松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": "Production"
+    },
+    {
+        "Item": 4.0,
+        "Defect Comment": "401线接错位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 5.0,
+        "Defect Comment": "ED图13.7J CMC电抗器的电流值与实际不符",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 6.0,
+        "Defect Comment": "霍尔HECS1线束上留有多余未使用的固定扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 7.0,
+        "Defect Comment": "风机罩钣金漆面有多处划伤",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 8.0,
+        "Defect Comment": "功率柜1柜右侧板上端，绑光纤扎带未剪。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 9.0,
+        "Defect Comment": "ED图14页SW2选择开关一开点一闭点，应为两个开点",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 10.0,
+        "Defect Comment": "1A柜内UPS内部左侧板上有可擦去污渍",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 11.0,
+        "Defect Comment": "CB3的4点(118)线与端子排的118缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 12.0,
+        "Defect Comment": "CT的标识安装时完全被遮挡，后期查件时无法识别是否正确",
+        "L Code": "L1",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 13.0,
+        "Defect Comment": "ABlogo&PF6Klogo missing",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 14.0,
+        "Defect Comment": "控制柜内有3处线束上缺少扎带捆扎，明显可见线束松散",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 15.0,
+        "Defect Comment": "图纸10005061182上CMC柜门上滤网大小比例与实际不符",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 16.0,
+        "Defect Comment": "变压器柜防尘罩上端圆锁丢失（来料检验时有门锁的）",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.3",
+        "": ""
+    },
+    {
+        "Item": 17.0,
+        "Defect Comment": "进线柜小窗紧固螺母松动",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 18.0,
+        "Defect Comment": "变流柜的右上角处，固定光纤的扎带未剪断",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 19.0,
+        "Defect Comment": "变流柜底板上有多余的扎带一根",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 20.0,
+        "Defect Comment": "变压器柜底板上有多余的黑色扎带尾端",
+        "L Code": "L3",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 21.0,
+        "Defect Comment": "进线柜内隔离开关接地点上一体化螺丝短",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 22.0,
+        "Defect Comment": "功率柜内加热器线号离接线点太近",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 23.0,
+        "Defect Comment": "KD1器件的L,N上的接线103和107松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 24.0,
+        "Defect Comment": "PLC3的COM0点短接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 25.0,
+        "Defect Comment": "外接HMI电源插接件的第1点+24V与端子+24V不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 26.0,
+        "Defect Comment": "端子排DTB3的920标签缺失",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 27.0,
+        "Defect Comment": "PLC3的COM0点短接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 28.0,
+        "Defect Comment": "变压器辅助线圈接地线压绝缘皮",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 29.0,
+        "Defect Comment": "变压器BV-DIS二次侧4U接线点的固定螺丝松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 30.0,
+        "Defect Comment": "功率柜线槽内，绑光纤扎带未剪、",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 31.0,
+        "Defect Comment": "\"PCU4\"功率单元的底部红色绝缘板上有剪短的扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 32.0,
+        "Defect Comment": "\"PCV4\"功率单元的底部红色绝缘板上有多余的黑色缩管",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 33.0,
+        "Defect Comment": "检测功率单元时报电容异常",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 34.0,
+        "Defect Comment": "D-741A至KA-RDY端子2的接线位置错误，实际接端子1了",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 35.0,
+        "Defect Comment": "1442A至控制箱上SLOT7的DI5的位置接错，实际接Di4",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 36.0,
+        "Defect Comment": "Barton Test3",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 37.0,
+        "Defect Comment": "插接错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 38.0,
+        "Defect Comment": "变压器柜的底板上有多余的紧固件，螺母和平垫各一个",
+        "L Code": "L3",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 39.0,
+        "Defect Comment": "控制柜左侧板下部，有一条20cm长的划伤，已经裸露基材",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 40.0,
+        "Defect Comment": "TSC,TSSO 转换器卡接位置下有自攻钉，导致电源956,957短路",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 41.0,
+        "Defect Comment": "接线错误导致L和N短路",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 42.0,
+        "Defect Comment": "1136与1139位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 43.0,
+        "Defect Comment": "PLC2上的COM1端口上缺少一个402线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 44.0,
+        "Defect Comment": "931,931A应接到AI1+,AI1-,实际接到PTC+,PTC",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 45.0,
+        "Defect Comment": "线509’中间插子位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 46.0,
+        "Defect Comment": "LT4与LT5指示灯的线的线号错误应该是118，实际121错。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 47.0,
+        "Defect Comment": "变压器柜前后钣金连接处缺少自攻钉一个",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 48.0,
+        "Defect Comment": "模块警告标识贴反（黄色三角形）",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 49.0,
+        "Defect Comment": "DTB1的960线到旁路柜的960长线不通，线号穿错位置导致不同。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 50.0,
+        "Defect Comment": "功率柜1柜地排螺栓未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 51.0,
+        "Defect Comment": "霍尔标识错误（应该是BC_W，实际BV_W)",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 52.0,
+        "Defect Comment": "进线柜顶部地排左侧的地线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 53.0,
+        "Defect Comment": "TUB后边左侧的白板金上缺少一组紧固件",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 54.0,
+        "Defect Comment": "连接TUB后边左侧白板金与焊钉之间的紧固件松动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 55.0,
+        "Defect Comment": "TUB底边正面的漆面被划伤，较小的面积内有多道划痕",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 56.0,
+        "Defect Comment": "进线柜左侧白色的电缆护套松动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 57.0,
+        "Defect Comment": "线束缺失：空开CB6121点至继电器CR11A缺失环线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 58.0,
+        "Defect Comment": "功率柜柜门胶条损坏",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 59.0,
+        "Defect Comment": "变压器二次线圈C3C相螺丝松动未紧固",
+        "L Code": "L3",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 60.0,
+        "Defect Comment": "ACB_J3B ~ ACB_J3T 标识贴反",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 61.0,
+        "Defect Comment": "Barton Test, please ignore",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G2.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 62.0,
+        "Defect Comment": "接线错误；SL-PC2行程开关142与143A闭合后不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 63.0,
+        "Defect Comment": "接线错误；WC-TSV 1541与1542接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 64.0,
+        "Defect Comment": "接线错误；端子排2439与2440缺少短连片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 65.0,
+        "Defect Comment": "功率柜大底上有8处脱漆露青，功率柜门上有1处露青",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 66.0,
+        "Defect Comment": "线束没插到位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.1",
+        "": ""
+    },
+    {
+        "Item": 67.0,
+        "Defect Comment": "上电指示灯不亮",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 68.0,
+        "Defect Comment": "功率2柜地排螺丝未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 69.0,
+        "Defect Comment": "缺少短链片：端子排1036A与1037A、1438与1439缺少短链片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 70.0,
+        "Defect Comment": "the wire 429 and wire 429A to A1 were connected wrong",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 71.0,
+        "Defect Comment": "PCA8功率单元上缺少右下角的标识及上部的黄色搬运标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 72.0,
+        "Defect Comment": "功率柜左下小门合页处有划伤",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 73.0,
+        "Defect Comment": "CR22E和CR22D是串联逻辑，应该改成并联逻辑关系",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 74.0,
+        "Defect Comment": "SW1上的两个线401少一个短接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 75.0,
+        "Defect Comment": "UPS底板自攻钉未紧固到位",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 76.0,
+        "Defect Comment": "低压启动断路",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 77.0,
+        "Defect Comment": "螺丝未紧",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 78.0,
+        "Defect Comment": "80K电阻在绝缘管中明显晃动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 79.0,
+        "Defect Comment": "无力矩标识",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 80.0,
+        "Defect Comment": "黑门上灯扭板紧固螺丝松动",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 81.0,
+        "Defect Comment": "端子220到段子232不通,工艺缺陷导致没有线鼻子，线夹不紧",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 82.0,
+        "Defect Comment": "变压器柜内有多余M6螺母",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 83.0,
+        "Defect Comment": "M3的1号端口线147未扒皮",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 84.0,
+        "Defect Comment": "功率柜与变压器柜之间的过线孔安装的白胶牙子位置错误（未安装在小的过线孔上）",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 85.0,
+        "Defect Comment": "IGBT损坏",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.3",
+        "": ""
+    },
+    {
+        "Item": 86.0,
+        "Defect Comment": "DD上显示门上有个白色的按钮，但是实际上没有",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 87.0,
+        "Defect Comment": "后盖板处密封胶条的张贴方式与DWI不符合，胶条之间有断点",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 88.0,
+        "Defect Comment": "柜体后部的密封胶条粘贴于DWI不符合，胶条之间有断点",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 89.0,
+        "Defect Comment": "变压器柜左侧板上固定母线夹支架的紧固件上没有紧固标识--黑线",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 90.0,
+        "Defect Comment": "变压器柜连接负载电缆的铜排与绝缘子间的螺丝没有自检黑色标记",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 91.0,
+        "Defect Comment": "控制柜右侧板下部的线槽盖安装失败，线槽牙裸露在线槽盖外面",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 92.0,
+        "Defect Comment": "CB2的线116套错线号，套了一个115线号",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 93.0,
+        "Defect Comment": "控制柜内，底板上的地排与右侧板上的地排搭接处边缘不平齐",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 94.0,
+        "Defect Comment": "XC-VPCC1端子排号错误安排号装为XC-VFD1端子",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 95.0,
+        "Defect Comment": "控制柜的内的大底上有一处脱漆",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 96.0,
+        "Defect Comment": "功率柜地排下方有一多余M6弹垫",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 97.0,
+        "Defect Comment": "变压器柜两个风机状态反馈线接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 98.0,
+        "Defect Comment": "生产紧固螺母时弹垫未平的情况下栽钉开焊脱落",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 99.0,
+        "Defect Comment": "CR7上9700线没接",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 100.0,
+        "Defect Comment": "控制柜左右侧板下端，线槽盖未扣紧。",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 101.0,
+        "Defect Comment": "ED图纸不是最新版本，信息参数和端子号与其不对应。",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 102.0,
+        "Defect Comment": "控制柜线槽里扎在未剪",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 103.0,
+        "Defect Comment": "845和847号线应接到KA-LOSS1的4和12端子，实际接KA-LOSS2上了",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 104.0,
+        "Defect Comment": "3个“inverter”和3个“rectifier”标识的位置完全贴串位了",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 105.0,
+        "Defect Comment": "固定光纤的螺杆上扎带未剪",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 106.0,
+        "Defect Comment": "ED图15.8G处端子222到CPT1应有连接线",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 107.0,
+        "Defect Comment": "功率柜右侧里端有断裂扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 108.0,
+        "Defect Comment": "KP1-DNADPTR 电阻位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 109.0,
+        "Defect Comment": "PLC3缺少一根线402短接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 110.0,
+        "Defect Comment": "功率柜内霍尔传感器标识贴的不合理，覆盖了霍尔变比，无法识别",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 111.0,
+        "Defect Comment": "控制内风机开关下端缺少挡片",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 112.0,
+        "Defect Comment": "OQC检验中发现测试站测试后未将变压器备用螺母紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 113.0,
+        "Defect Comment": "Slot 8 TB2端子ROC,R1C短接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 114.0,
+        "Defect Comment": "MCB TB1 1136线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 115.0,
+        "Defect Comment": "端子排845线掉线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 116.0,
+        "Defect Comment": "控制柜灯钮板铭牌歪",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 117.0,
+        "Defect Comment": "变频器运行灯的线402松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 118.0,
+        "Defect Comment": "进线柜隔离开关接地螺丝未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 119.0,
+        "Defect Comment": "CR19的S34点接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 120.0,
+        "Defect Comment": "PLC9的COM0接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 121.0,
+        "Defect Comment": "地线压接方向错误，压痕很靠上端。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.4",
+        "": ""
+    },
+    {
+        "Item": 122.0,
+        "Defect Comment": "标签遮挡霍尔变比信息",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 123.0,
+        "Defect Comment": "50V指示灯不亮",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 124.0,
+        "Defect Comment": "Barton Test, Please Igore",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 125.0,
+        "Defect Comment": "缺少端子号",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 126.0,
+        "Defect Comment": "控制柜底板和白板金及地排上有隐约的脚印痕迹；功率柜的地排上有脚印",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 127.0,
+        "Defect Comment": "Barton Test",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 128.0,
+        "Defect Comment": "QS_FPS的13端子上的3136接错位置，接至KP_2_PIO4的端子7",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 129.0,
+        "Defect Comment": "SE-ESTP 辅助触点上下位置接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 130.0,
+        "Defect Comment": "后盖板缺少一颗固定螺栓",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 131.0,
+        "Defect Comment": "Barton Test",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 132.0,
+        "Defect Comment": "吸盘损坏",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 133.0,
+        "Defect Comment": "柜内缺少加热器标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 134.0,
+        "Defect Comment": "VFD1上的1052A与QC-CTRL2上的13号端口缺少连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 135.0,
+        "Defect Comment": "变压器柜右侧（后视）的导流胶条与侧板之间有50mm缝隙",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.1",
+        "": ""
+    },
+    {
+        "Item": 136.0,
+        "Defect Comment": "PIO8 1053A至端子不通（查找为线束环错至1035A）",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 137.0,
+        "Defect Comment": "DTB2的510与PLC9的I-11端子不通,线接错端子",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 138.0,
+        "Defect Comment": "PS3A的L压线绝缘皮",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 139.0,
+        "Defect Comment": "FB-10CB6标识错误,FB-10CB7",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 140.0,
+        "Defect Comment": "CB1A,CB1B,M4标签位置贴错",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 141.0,
+        "Defect Comment": "KC-CB 942环线掉",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 142.0,
+        "Defect Comment": "控制柜后盖板内需要补白漆",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 143.0,
+        "Defect Comment": "控制柜黑色名牌参数雕刻错误，重量应为8410KG,实际雕刻成8140KG.",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 144.0,
+        "Defect Comment": "tub里有一个固定光纤的扎带未剪断",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.2",
+        "G Code 3": "G1.2.3",
+        "": ""
+    },
+    {
+        "Item": 145.0,
+        "Defect Comment": "变压器柜控制室小门缺少软连地线",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 146.0,
+        "Defect Comment": "bao IGBT guoliu",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 147.0,
+        "Defect Comment": "控制柜门底部白色固定支架未安装",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 148.0,
+        "Defect Comment": "模块前面板缺少紧固螺丝",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 149.0,
+        "Defect Comment": "线束缺失；CR12与端子排118缺少环线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 150.0,
+        "Defect Comment": "继电器CR19，S11和S52两个接线口缺少短接片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 151.0,
+        "Defect Comment": "功率柜霍尔上方有杂物",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 152.0,
+        "Defect Comment": "端子排短连片应该安装到XC VFD1 2439,2440上，实际短连片安装2440与2441上。",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 153.0,
+        "Defect Comment": "图纸错误ED图纸霍尔电源应该到17页实际到18页",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 154.0,
+        "Defect Comment": "缺线：端子221-237缺少短接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 155.0,
+        "Defect Comment": "ACB_J2B ~ ACB_J2T 标识贴反",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 156.0,
+        "Defect Comment": "功率柜右侧门下端白色防尘网，螺母未紧固。",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 157.0,
+        "Defect Comment": "START名牌划伤",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 158.0,
+        "Defect Comment": "CB1的5号端子401与DTB2上的401不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 159.0,
+        "Defect Comment": "输出侧UVW铜排固定结构件安装不一致，401合同安装红色，501合同安装为白色",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.1",
+        "": ""
+    },
+    {
+        "Item": 160.0,
+        "Defect Comment": "功率柜3门内侧板上端多出行程开关标签",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 161.0,
+        "Defect Comment": "变频器到手动旁路柜的 所有联屏线没扒",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.1",
+        "": ""
+    },
+    {
+        "Item": 162.0,
+        "Defect Comment": "温控器KT的透明板子线面与温控器上表面之间有多余线号",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 163.0,
+        "Defect Comment": "模块出线未上力矩标识",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 164.0,
+        "Defect Comment": "LS3行程开关接口没拧紧",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 165.0,
+        "Defect Comment": "防尘罩门圆锁都未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 166.0,
+        "Defect Comment": "KF-CB的COM0与COM1之间的短接线1053A松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 167.0,
+        "Defect Comment": "进线柜里接地lug上没有力矩标识",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 168.0,
+        "Defect Comment": "黑门上固定灯扭板的M5螺母未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 169.0,
+        "Defect Comment": "CB8 didn't have label",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 170.0,
+        "Defect Comment": "Didn't have label M3 and label CB1A",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 171.0,
+        "Defect Comment": "AB LOGO",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 172.0,
+        "Defect Comment": "端子排1101,1102,1103,1104缺少短接片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 173.0,
+        "Defect Comment": "控制回路的地线上的lug压痕位置错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.4",
+        "": ""
+    },
+    {
+        "Item": 174.0,
+        "Defect Comment": "供电电源二(PS2)没有标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 175.0,
+        "Defect Comment": "手自动转换开关，自动和手动按反了",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 176.0,
+        "Defect Comment": "变压器柜门柱和底部有钣金掉漆",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 177.0,
+        "Defect Comment": "PB1上的109线松",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 178.0,
+        "Defect Comment": "DTB3上的511A少一根线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 179.0,
+        "Defect Comment": "功率单元后面风道里有卡式螺母",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 180.0,
+        "Defect Comment": "后背板螺丝未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 181.0,
+        "Defect Comment": "DTB1端子排上920端子中有一个贴成919",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 182.0,
+        "Defect Comment": "前面板螺丝未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 183.0,
+        "Defect Comment": "控制柜内左侧安装板的漆面局部有较大面积的划伤至漏青",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 184.0,
+        "Defect Comment": "UPS的固定钣金上有锋利的毛刺",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 185.0,
+        "Defect Comment": "变压器柜柜门螺母未紧固到位",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 186.0,
+        "Defect Comment": "主控板PLC8,PLC9电器件并未卡进滑道中进行有效固定",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 187.0,
+        "Defect Comment": "功率单元上缺少警告标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 188.0,
+        "Defect Comment": "低压室柜门合页螺丝未紧固到位",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 189.0,
+        "Defect Comment": "控制柜内右侧板下部有划伤",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 190.0,
+        "Defect Comment": "电源板螺丝未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 191.0,
+        "Defect Comment": "图纸上U相和W相的霍尔位置不对，实际应在出线侧",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 192.0,
+        "Defect Comment": "-kp-1EPS-1,2号口少地线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 193.0,
+        "Defect Comment": "端子1052A到端子1438少线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 194.0,
+        "Defect Comment": "低压正常，上高压后报IGBT 过流",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 195.0,
+        "Defect Comment": "控制柜光纤固定吸盘损坏",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 196.0,
+        "Defect Comment": "大底上有一个螺栓略松",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 197.0,
+        "Defect Comment": "变压器柜左侧小门上的M6栽钉在安装通风网过程中脱落了",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.7",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 198.0,
+        "Defect Comment": "CR11上120线接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 199.0,
+        "Defect Comment": "低压室内上端过线挡圈掉落",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 200.0,
+        "Defect Comment": "GO线束位置不对",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 201.0,
+        "Defect Comment": "控制柜顶部的线槽里的线缆没有被固定在线槽上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 202.0,
+        "Defect Comment": "CB10A的线423接错位置,应接到14端口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 203.0,
+        "Defect Comment": "大底上的一个螺栓略松，视觉可见弹垫未完全压平",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 204.0,
+        "Defect Comment": "1A柜的中性电阻的上部的绝缘件上，放有一根完好的小扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 205.0,
+        "Defect Comment": "线号934接错位置，应接PLC4的CI-2上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 206.0,
+        "Defect Comment": "风机上的接地线一端lug压接损坏",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.4",
+        "": ""
+    },
+    {
+        "Item": 207.0,
+        "Defect Comment": "线2549应接到CR20的12点，实际错接到了CR19的12点",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 208.0,
+        "Defect Comment": "霍尔HECS1标识位置粘贴错误",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 209.0,
+        "Defect Comment": "功率柜最上方过线槽对线缆未进行固定",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 210.0,
+        "Defect Comment": "触摸屏到监控箱763A标识脱落",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 211.0,
+        "Defect Comment": "Drive / Bypass 1663,1664线接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 212.0,
+        "Defect Comment": "PLC8的COM2点接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 213.0,
+        "Defect Comment": "变压器柜左侧立柱下有一体化螺丝",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 214.0,
+        "Defect Comment": "XC-VFD2上的D-Z+和D-ENCP之间缺少短接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 215.0,
+        "Defect Comment": "功率柜内右侧有扎带碎屑",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 216.0,
+        "Defect Comment": "CB10A的13NO接错，接到常闭触点了",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 217.0,
+        "Defect Comment": "检验功率单元时发现熔断器损坏",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 218.0,
+        "Defect Comment": "控制柜门凹陷",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 219.0,
+        "Defect Comment": "CB2器件的2点接线115压到绝缘层 导致不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 220.0,
+        "Defect Comment": "ACB 板J3B,J4T CT 线压皮子",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 221.0,
+        "Defect Comment": "PJ1接线未放置在顶端线槽内",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 222.0,
+        "Defect Comment": "KM1开闭点线接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 223.0,
+        "Defect Comment": "OQC检验中发现特殊说明中要求的K14门锁标识缺失",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 224.0,
+        "Defect Comment": "24V风机接触器与220V控制电源接触器安装混淆",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 225.0,
+        "Defect Comment": "控制柜内的温控器标识错误，应该是“BH-CSH1\", 实际贴的是CH-CSH1",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 226.0,
+        "Defect Comment": "KF-CB 942环线松动掉线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 227.0,
+        "Defect Comment": "115至1051A的短接线位置接错，接至1050A了",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 228.0,
+        "Defect Comment": "Barton Test2",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 229.0,
+        "Defect Comment": "Barton Test",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 230.0,
+        "Defect Comment": "Barton Test2",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 231.0,
+        "Defect Comment": "查线时，发现霍尔U相屏蔽线松动，与接线端子分离",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 232.0,
+        "Defect Comment": "936至TR-PS1的L点不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 233.0,
+        "Defect Comment": "模块连接线线线号顺序错误",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 234.0,
+        "Defect Comment": "顶盖板上有一个M6一体化螺丝未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 235.0,
+        "Defect Comment": "C3功率单元的导轨固定螺丝未紧固且歪斜",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 236.0,
+        "Defect Comment": "P20页，PLC9的I-01接线位置接到了I-02上。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 237.0,
+        "Defect Comment": "P23页，监控箱P8-7点短接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 238.0,
+        "Defect Comment": "CR11A的端子5缺少一根线号120的线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 239.0,
+        "Defect Comment": "柜内有多处需要补漆",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 240.0,
+        "Defect Comment": "扎带过长",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 241.0,
+        "Defect Comment": "PB4与PB5标识错误启动停止按钮",
+        "L Code": "L4",
+        "G Code 1": "N/",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 242.0,
+        "Defect Comment": "进线柜内有一个多余的自攻钉",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 243.0,
+        "Defect Comment": "固定锁的螺丝未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 244.0,
+        "Defect Comment": "功率柜内有多余螺栓",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 245.0,
+        "Defect Comment": "控制柜大底上的螺丝未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 246.0,
+        "Defect Comment": "继电器CR19，8号口的线，错接到了4号上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 247.0,
+        "Defect Comment": "继电器CR19，8号口的线，错接到了4号上",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 248.0,
+        "Defect Comment": "变压器2次输出电缆B相1螺丝松动未紧固",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 249.0,
+        "Defect Comment": "功率柜C相C7 Power Cell输入 C相电缆松动未紧固，已有力矩标识",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.2",
+        "": ""
+    },
+    {
+        "Item": 250.0,
+        "Defect Comment": "tub里小门下面的地线能够用手转动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 251.0,
+        "Defect Comment": "固定DCLINK柜右侧的白板金的紧固件松动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 252.0,
+        "Defect Comment": "控制柜内地线未接到底排上，而是甩到线束内。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 253.0,
+        "Defect Comment": "线束接反：CR18继电器 401线位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 254.0,
+        "Defect Comment": "缺线: 233-CRK1.2 少线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 255.0,
+        "Defect Comment": "缺线:缺少CPK3.2-端子233的环线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 256.0,
+        "Defect Comment": "UPS的输入电压与ED上要求不符合：ED要求是220V，实际UPS的输入电压最大是120V",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.1",
+        "": ""
+    },
+    {
+        "Item": 257.0,
+        "Defect Comment": "扎带未剪",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G1.2",
+        "G Code 3": "G1.2.3",
+        "": ""
+    },
+    {
+        "Item": 258.0,
+        "Defect Comment": "Barton Test, plase ignore",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.2",
+        "": ""
+    },
+    {
+        "Item": 259.0,
+        "Defect Comment": "The CB label of TUB don't have FB23",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 260.0,
+        "Defect Comment": "DTB2端子排上的401与DTB2端子排上的450缺少连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 261.0,
+        "Defect Comment": "端子970到CR11B的4号口接错，实际接错到8号口，应接4号口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 262.0,
+        "Defect Comment": "DTB1端子排上的线116号与其他的116号线不通，缺少一个连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 263.0,
+        "Defect Comment": "整理过程中未粘贴警告标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 264.0,
+        "Defect Comment": "TM-TSSO的7端口与TMTSC的7端口未与956号线连接",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 265.0,
+        "Defect Comment": "ED图纸30.4E处FB-FAN-TPC实际为11端子，图纸上的13端子，与实际不符",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 266.0,
+        "Defect Comment": "402端子排缺少两个",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 267.0,
+        "Defect Comment": "功率单元左下侧滤网门掉漆一处，漏钣金",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 268.0,
+        "Defect Comment": "整流侧最下端的powercage上右下角的2个表示上下位置串了",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 269.0,
+        "Defect Comment": "PB2 was installed wrong ,it should be NO ,actual it was NC",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 270.0,
+        "Defect Comment": "wire 501 and wire 503 connected wrong",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 271.0,
+        "Defect Comment": "空白端子接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 272.0,
+        "Defect Comment": "灯钮CONTROL POWER RESET名牌位置不准确",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 273.0,
+        "Defect Comment": "控制回路的地线上的lug压痕位置错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.4",
+        "": ""
+    },
+    {
+        "Item": 274.0,
+        "Defect Comment": "功率柜右下角缺少M8螺丝一个",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 275.0,
+        "Defect Comment": "功率单元侧板的紧固螺丝缺失,侧板应该是EM测试后安装",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 276.0,
+        "Defect Comment": "缺少“KM3”标识一个",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 277.0,
+        "Defect Comment": "地排上控制回路的地线上lug的压痕位置错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.4",
+        "": ""
+    },
+    {
+        "Item": 278.0,
+        "Defect Comment": "可编程控制器PLC3的20端口未接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.6",
+        "G Code 3": "G5.6.3",
+        "": ""
+    },
+    {
+        "Item": 279.0,
+        "Defect Comment": "963号线连接到CR20A的3端口，与图纸7端口不符",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 280.0,
+        "Defect Comment": "XIO1J7的402位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 281.0,
+        "Defect Comment": "VSB板V相和W相接反线色也错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.6",
+        "G Code 3": "G5.6.1",
+        "": ""
+    },
+    {
+        "Item": 282.0,
+        "Defect Comment": "控制柜底板缝隙处有红色的剥线头一个",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 283.0,
+        "Defect Comment": "变压器柜的绝缘板上，线束附近有一根多余的扎带尾端",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 284.0,
+        "Defect Comment": "低压室下方角门里有两处掉漆",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 285.0,
+        "Defect Comment": "DTB4的11端子与CB5的1号端子，因PJ2内11号线插接不牢导致不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.1",
+        "": ""
+    },
+    {
+        "Item": 286.0,
+        "Defect Comment": "霍尔标识贴的位置不正",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 287.0,
+        "Defect Comment": "PS3的线号116松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 288.0,
+        "Defect Comment": "线401应接到PLC3上的23号端口，实际接到PLC3上的22号端口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 289.0,
+        "Defect Comment": "主控制板线槽的一根牙裸露在线槽盖外面",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 290.0,
+        "Defect Comment": "风机23号线松动，导致接触不良",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 291.0,
+        "Defect Comment": "控制柜右侧门边上端划伤（推左右侧板造成的）",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 292.0,
+        "Defect Comment": "功率单元上2个fuse上下端电气连接处均无力矩标识；B相铜排电气连接处无力矩标识",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 293.0,
+        "Defect Comment": "PLC2的风机的这4个点415,417,418,419按顺序错接到了I-04,I-05,I-06,I-07。应该按顺序接I-05,I-06,I-07,I-08这四的点",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 294.0,
+        "Defect Comment": "输入波形不对",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 295.0,
+        "Defect Comment": "平垫没按",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 296.0,
+        "Defect Comment": "风机接触器FAN21和FAN32,A1和A2全部接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 297.0,
+        "Defect Comment": "绝缘板底部钣金缝隙内有残留的线槽碎屑",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 298.0,
+        "Defect Comment": "低压室柜门下端圆锁损坏",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 299.0,
+        "Defect Comment": "DTB2上线401到PLC9的30号端口的507之间缺少一个线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 300.0,
+        "Defect Comment": "837A接错位置，应接BV-CPT1的115V上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 301.0,
+        "Defect Comment": "固定风机控制箱的紧固件未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 302.0,
+        "Defect Comment": "LS1行程钣金件变形",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.3",
+        "": ""
+    },
+    {
+        "Item": 303.0,
+        "Defect Comment": "功率柜上层模块绝缘板上有一把扳手",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 304.0,
+        "Defect Comment": "KF-CB1.1239线位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 305.0,
+        "Defect Comment": "低压室钣金上紧固螺母未紧固到位（弹垫未平）",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 306.0,
+        "Defect Comment": "PLC电源的N点116线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 307.0,
+        "Defect Comment": "黑色不干胶铭牌上catalog no. 中少一个字母\"D\",应该是“...81ADJD...\",实际是”...81ADJ....\"",
+        "L Code": "L1",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 308.0,
+        "Defect Comment": "控制室内底部有一个手电筒",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 309.0,
+        "Defect Comment": "变压器二次侧V6端子牌脱落（1036）",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 310.0,
+        "Defect Comment": "QC——Ctrl2 的14点接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 311.0,
+        "Defect Comment": "变压器柜左后侧，缺少党风胶垫固定孔。（挡风胶垫脱落）",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 312.0,
+        "Defect Comment": "变压器柜上端顶板变形，有明显的凸起。",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.3",
+        "": ""
+    },
+    {
+        "Item": 313.0,
+        "Defect Comment": "CB10A的423错接到12号端口，应接到14号端口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 314.0,
+        "Defect Comment": "变压器柜底部有螺母和碎屑",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 315.0,
+        "Defect Comment": "控制柜一侧的霍尔电缆线束通过穿线孔到变流柜时，没有采用绕线管做防护",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 316.0,
+        "Defect Comment": "PLC8的COM6点短接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 317.0,
+        "Defect Comment": "P27页高压允许控制回路的919至917接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 318.0,
+        "Defect Comment": "CR19的S34点接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 319.0,
+        "Defect Comment": "CR21,CR4,CR7上117A线不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 320.0,
+        "Defect Comment": "IGBT过流",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 321.0,
+        "Defect Comment": "控制柜左右门边上共有3处划伤脱漆",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 322.0,
+        "Defect Comment": "Barton Test",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 323.0,
+        "Defect Comment": "顶盖板自攻钉未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 324.0,
+        "Defect Comment": "柜体上缺少LOGO",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 325.0,
+        "Defect Comment": "VFD1上的1052A与KA-IFDR上的11号端口缺少连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 326.0,
+        "Defect Comment": "控制柜的底板上有一个多余的m10弹垫",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 327.0,
+        "Defect Comment": "1545和1546至SLOT7的R0NO和R1NO接错位置，实际接R0NC和R1NC",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 328.0,
+        "Defect Comment": "线号456至VSB板上的线松",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 329.0,
+        "Defect Comment": "DTB1端子排缺少1个917端子",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 330.0,
+        "Defect Comment": "吸盘开胶",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 331.0,
+        "Defect Comment": "VFD2端子N至空开EXCTRL1少环线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 332.0,
+        "Defect Comment": "UPS3点1652线至PIO3位置接错接至3点上（应接1点）",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 333.0,
+        "Defect Comment": "965至CR3的11端子线接错位置，接至10端子了",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 334.0,
+        "Defect Comment": "KA-CR2 标签翘脚",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 335.0,
+        "Defect Comment": "CR11,CR4,继电器的5点的401与端子排的401不通，经检查继电器的401与 到端子的401没有短接上。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 336.0,
+        "Defect Comment": "VSB板456线与监控箱不通掉线PJ1插头掉线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 337.0,
+        "Defect Comment": "变压器柜前后钣金连接处缺少自攻钉一个",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 338.0,
+        "Defect Comment": "铭牌中的WEIGHT中的G刻成C了",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 339.0,
+        "Defect Comment": "CB2开关的下口115线未接上与DTB1端子排115不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 340.0,
+        "Defect Comment": "功率柜左上小门，固定滤网的挡片紧固件未紧固（M6螺母）",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 341.0,
+        "Defect Comment": "备件缺少玻璃胶，料号：HJG000220",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 342.0,
+        "Defect Comment": "功率柜上端线槽内有未剪扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G1.2",
+        "G Code 3": "G1.2.3",
+        "": ""
+    },
+    {
+        "Item": 343.0,
+        "Defect Comment": "线束接反：小箱端子440与442接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 344.0,
+        "Defect Comment": "KF-CB P14 1050A线接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 345.0,
+        "Defect Comment": "变压器二次线圈A7B相螺丝松动未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 346.0,
+        "Defect Comment": "功率单元输入与图纸不符图纸为A1A相，A1B,A1C 实际为A1R相A1S,A1T.",
+        "L Code": "L3",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 347.0,
+        "Defect Comment": "风机电源线1300,1301,1302，14应接到开关的1,3,5,7上实际7,5,3,1接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 348.0,
+        "Defect Comment": "shangdianqianceshi rongduanqi kailu",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 349.0,
+        "Defect Comment": "Barton Test, please Ignore",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 350.0,
+        "Defect Comment": "功率单元前面板上又异物（是撕警告标识所产生的）",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 351.0,
+        "Defect Comment": "D600与D601接错位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 352.0,
+        "Defect Comment": "风机底部少自攻钉",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.2",
+        "": ""
+    },
+    {
+        "Item": 353.0,
+        "Defect Comment": "小箱端子928、936位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 354.0,
+        "Defect Comment": "PLC4线束934位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 355.0,
+        "Defect Comment": "高压启动后报IGBT过流",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 356.0,
+        "Defect Comment": "CR11B的第四点缺少到端子970的线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 357.0,
+        "Defect Comment": "黑门上“speed”铭牌视觉可见倾斜",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.5",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 358.0,
+        "Defect Comment": "继电器CR0上的7号端口与DTB1的970之间缺少一根连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 359.0,
+        "Defect Comment": "TSN 4V,4W 接线错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 360.0,
+        "Defect Comment": "SCR电源线卡住",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 361.0,
+        "Defect Comment": "AR-MSR33点线束位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 362.0,
+        "Defect Comment": "PLC8上的13端口未与200号线连接",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 363.0,
+        "Defect Comment": "缺少力矩胶漏下",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 364.0,
+        "Defect Comment": "功率柜内有多余平垫",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 365.0,
+        "Defect Comment": "端子排VFD1上1036A和1037A缺少短接片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 366.0,
+        "Defect Comment": "KF-CB的DI0的线1235连接到KA-IFDR的3号口错误，应该接到IFDR的7号口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 367.0,
+        "Defect Comment": "VSB三根电缆及负载输出线的3根电缆的一端线号错误，应该是U1, V1, W1",
+        "L Code": "L1",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 368.0,
+        "Defect Comment": "PB1 was installed wrong ,it should be NC ,actual it was NO",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 369.0,
+        "Defect Comment": "铝铭牌和发货图纸不符",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 370.0,
+        "Defect Comment": "There was no wire between DTB2 401 and the 23 port of CR19",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 371.0,
+        "Defect Comment": "CR11B的第4点接错线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 372.0,
+        "Defect Comment": "功率柜风机5的V点接线错误",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 373.0,
+        "Defect Comment": "功率柜右侧柜门缺少门锁钥匙",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.3",
+        "": ""
+    },
+    {
+        "Item": 374.0,
+        "Defect Comment": "PLC USB通讯口卡住通讯线",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 375.0,
+        "Defect Comment": "PF6000合同说明中的变频器铭牌公共信息中的电压10000错误，应为6000",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 376.0,
+        "Defect Comment": "线束缺失:控制柜至旁路柜缺少470连屏线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 377.0,
+        "Defect Comment": "低压室控制箱紧固螺母松动",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 378.0,
+        "Defect Comment": "控制柜地线的线鼻子压错位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.4",
+        "": ""
+    },
+    {
+        "Item": 379.0,
+        "Defect Comment": "PLC2上的435与436接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 380.0,
+        "Defect Comment": "柜体中有多余的M8弹垫",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 381.0,
+        "Defect Comment": "操作机构面板上缺少“DS\"标识, 忽略下面PN选项",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 382.0,
+        "Defect Comment": "415,417 wire location error",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 383.0,
+        "Defect Comment": "ED图3.09N的霍尔比例与实际不符",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 384.0,
+        "Defect Comment": "FB-CTRL-2的2号端口与端子排401之间缺少连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 385.0,
+        "Defect Comment": "风机控制面板上的XX-RA2的霍尔线位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 386.0,
+        "Defect Comment": "变压器柜门柱钣金上掉漆",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 387.0,
+        "Defect Comment": "ED图第四页变频器应该从底部进出线，图纸与实际不符",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 388.0,
+        "Defect Comment": "功率柜光纤线槽上，固定光纤的扎带未剪断",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 389.0,
+        "Defect Comment": "控制柜右侧线槽上有一个压接过的线帽",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 390.0,
+        "Defect Comment": "固定柜门上观察窗的黑框的紧固件-M6螺母松动",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 391.0,
+        "Defect Comment": "CB13点风机线破损导致接地",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.1",
+        "": ""
+    },
+    {
+        "Item": 392.0,
+        "Defect Comment": "控制柜内监控箱松动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 393.0,
+        "Defect Comment": "tub里左下角有一个红色的剥线皮",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 394.0,
+        "Defect Comment": "DTB1端子排缺少959B端子号",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 395.0,
+        "Defect Comment": "绝缘板后部二次尼龙螺母未点胶和紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.4",
+        "": ""
+    },
+    {
+        "Item": 396.0,
+        "Defect Comment": "监控箱的左下角固定处可轻微晃动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 397.0,
+        "Defect Comment": "TSC上的线931B和线931C的位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 398.0,
+        "Defect Comment": "动率单元上安装的熔断器不是同一批次，外观明显不一致。",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.3",
+        "": ""
+    },
+    {
+        "Item": 399.0,
+        "Defect Comment": "铭牌上的drive重量与特殊合同说明上标注的一致，但是与DD上的标注不一致，与AE核实，DD上的标注是对的",
+        "L Code": "L1",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 400.0,
+        "Defect Comment": "功率单元之间的联排上缺少力矩标识",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 401.0,
+        "Defect Comment": "图纸上201和301的海拔不对，应为1500",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 402.0,
+        "Defect Comment": "ED图第13页两个霍尔安装位置错误",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 403.0,
+        "Defect Comment": "一个熔断器上端电气连接处，无力矩标识(功率单元上的熔断器)",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 404.0,
+        "Defect Comment": "CR18的线109和线112位置接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 405.0,
+        "Defect Comment": "CR41上的线401应接到6号端口，实际接到7号端口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 406.0,
+        "Defect Comment": "扎带剪断留的过长",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 407.0,
+        "Defect Comment": "控制柜左侧板上的线束上有一根扎带未剪断",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 408.0,
+        "Defect Comment": "线号942和942A接错位置，应接到CR12的4和12端子上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 409.0,
+        "Defect Comment": "ED图15.9K CPT1 低压侧 H2应为X1",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 410.0,
+        "Defect Comment": "XIO1电路板上的J6插子上第二端口线未紧",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 411.0,
+        "Defect Comment": "版本 不兼容",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 412.0,
+        "Defect Comment": "功率单元powercage的电路板上56V红黑电源线未插入固定架内",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 413.0,
+        "Defect Comment": "生产安装钣金时将控制柜门上的栽钉弄断裂",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 414.0,
+        "Defect Comment": "KA-BDO2552线位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 415.0,
+        "Defect Comment": "图纸合同号打印错误",
+        "L Code": "L4",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 416.0,
+        "Defect Comment": "功率柜后盖板的边缘有一处2cm左右的脱漆",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 417.0,
+        "Defect Comment": "功率柜上部小门的通风滤网扭曲变形",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.3",
+        "": ""
+    },
+    {
+        "Item": 418.0,
+        "Defect Comment": "PLC2的8号端口的线402松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 419.0,
+        "Defect Comment": "控制柜门的限位开关电源线缺少一处固定点",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 420.0,
+        "Defect Comment": "固定光纤的扎带未剪断",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 421.0,
+        "Defect Comment": "器件TSC布局不合理，导致器件背部的金属触点接触到导轨的固定螺丝，从而造成401与402短路。",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.1",
+        "": ""
+    },
+    {
+        "Item": 422.0,
+        "Defect Comment": "PJ2的10点（11）和11点的（14）线接错了。",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 423.0,
+        "Defect Comment": "控制柜线槽内扎带未剪",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 424.0,
+        "Defect Comment": "4个柜门钥匙上及钥匙盒缺少标签K11,K12,K13,K14,K15",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 425.0,
+        "Defect Comment": "PLC9的COM0接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 426.0,
+        "Defect Comment": "插接松动，外接HMI电源的+24V与端子的+24V不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 427.0,
+        "Defect Comment": "控制柜的左右门边上有3处漆面被划伤露青",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 428.0,
+        "Defect Comment": "PS2 302 ,303接串位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 429.0,
+        "Defect Comment": "PJI-B的1点接线断线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.2",
+        "": ""
+    },
+    {
+        "Item": 430.0,
+        "Defect Comment": "3136到KP_2_DANDPTR端子6的接线位置错误，接至7端子",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 431.0,
+        "Defect Comment": "FAN-TC/FAN-PC的 3236A接错位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 432.0,
+        "Defect Comment": "1052A至1438短接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 433.0,
+        "Defect Comment": "报电容异常故障",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 434.0,
+        "Defect Comment": "CB3空开423位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 435.0,
+        "Defect Comment": "CR19 短链片未紧固（1102）",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 436.0,
+        "Defect Comment": "控制柜到低压柜门线束上的有一个扎带未剪",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.3",
+        "": ""
+    },
+    {
+        "Item": 437.0,
+        "Defect Comment": "OQC检验中发现功率柜门把手有损坏",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 438.0,
+        "Defect Comment": "控制箱上P8插子的443接错位置，实际接端子2上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 439.0,
+        "Defect Comment": "PS1的L和N接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 440.0,
+        "Defect Comment": "电阻51A与51B的X2点接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 441.0,
+        "Defect Comment": "VFD1至VFT1 2539和2540长线不通（插头问题）",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.1",
+        "": ""
+    },
+    {
+        "Item": 442.0,
+        "Defect Comment": "982与982A的连屏线没有线号",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 443.0,
+        "Defect Comment": "PCA7模块右侧固定螺栓未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 444.0,
+        "Defect Comment": "控制柜内固定右侧安装板的M5螺母未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 445.0,
+        "Defect Comment": "变压器柜地排接地线螺栓未紧固到位",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 446.0,
+        "Defect Comment": "控制柜门下端缺少卡簧",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 447.0,
+        "Defect Comment": "控制柜3A端子与微断INTCTRL上端口没有链接",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 448.0,
+        "Defect Comment": "zhukongban luanbaoguzhang",
+        "L Code": "L2",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 449.0,
+        "Defect Comment": "监控箱P5-7点的线接到了P7-8点",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 450.0,
+        "Defect Comment": "旁路柜小门底角软连未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 451.0,
+        "Defect Comment": "逆变侧W2A上的黑线有毛刺",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.1",
+        "": ""
+    },
+    {
+        "Item": 452.0,
+        "Defect Comment": "线路接错；电源复位M8的72点与M9的14点接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 453.0,
+        "Defect Comment": "端子排401到507短接线，错接到了510",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 454.0,
+        "Defect Comment": "变压器二次线圈C7C相螺丝松动未紧固",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 455.0,
+        "Defect Comment": "功率单元输出铜排无标识线号，图纸上有标识线号",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 456.0,
+        "Defect Comment": "ODO 5点线错接到1点",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 457.0,
+        "Defect Comment": "器件TSC1的第5点927接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 458.0,
+        "Defect Comment": "XC_VFD2.D-A+ ~ KF_ENCB.J1-1 接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 459.0,
+        "Defect Comment": "VSB3.4U ~ VSB3.4V接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 460.0,
+        "Defect Comment": "器件位置错误；转换开关,开点与闭点位置接反",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 461.0,
+        "Defect Comment": "端子401到CR11的5号口接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 462.0,
+        "Defect Comment": "PLC 3的I23点到401端子排线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 463.0,
+        "Defect Comment": "变压器线圈内有扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 464.0,
+        "Defect Comment": "低压室的端子排DTB3的401线有一颗松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 465.0,
+        "Defect Comment": "变压器柜顶端线缆支架螺母未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 466.0,
+        "Defect Comment": "端子970到继电器CR11B的4号口不通，错接到了8号口，应接4号口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 467.0,
+        "Defect Comment": "变频器进线电缆夹位置与实际不符,缺少灰色进出线大夹子",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 468.0,
+        "Defect Comment": "A项和B项，各有一台模块，输入线中间线歪斜，导致线与线之间，间距太近",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.5",
+        "": ""
+    },
+    {
+        "Item": 469.0,
+        "Defect Comment": "功率柜左侧的端子排滑道松动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 470.0,
+        "Defect Comment": "ED图纸09.06p标注0VDC，应为+24VDC",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 471.0,
+        "Defect Comment": "934和934A接错位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 472.0,
+        "Defect Comment": "ED图纸13.16L处多余两个线",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 473.0,
+        "Defect Comment": "方向装反",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 474.0,
+        "Defect Comment": "变压器柜内的温度控制线束未固定在空气导流板上",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 475.0,
+        "Defect Comment": "PLC3的24点处线未紧固",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 476.0,
+        "Defect Comment": "第五个风机接错线路",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.2",
+        "": ""
+    },
+    {
+        "Item": 477.0,
+        "Defect Comment": "电气图19.15B英文翻译错误",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 478.0,
+        "Defect Comment": "功率柜左侧板上尼龙螺帽松动一个(U1电缆旁边)",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 479.0,
+        "Defect Comment": "IGBI线束位置插错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 480.0,
+        "Defect Comment": "后背板一体化螺丝未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 481.0,
+        "Defect Comment": "DTB4端子排上14号线接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 482.0,
+        "Defect Comment": "功率柜右上角门内有一处螺母未紧",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.2",
+        "": ""
+    },
+    {
+        "Item": 483.0,
+        "Defect Comment": "后盖板检查时发现，功率柜的角落里有一个未使用过的M6栽钉",
+        "L Code": "L3",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 484.0,
+        "Defect Comment": "模块右滑道钣金前端铆钉孔拉铆不到位",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 485.0,
+        "Defect Comment": "控制箱端子443号线和446号线接错到凤凰端子的1和2号口，应接3和4号口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 486.0,
+        "Defect Comment": "RA2端子排205缺少短连片.",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 487.0,
+        "Defect Comment": "RA2的CSH-L1n无短接片",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 488.0,
+        "Defect Comment": "功率柜右侧板和绝缘件之间有扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.2",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 489.0,
+        "Defect Comment": "DD图第4页3LB应为3LL",
+        "L Code": "L1",
+        "G Code 1": "G2",
+        "G Code2": "G2.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 490.0,
+        "Defect Comment": "变压器柜左侧角门内螺母松动",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 491.0,
+        "Defect Comment": "铜排固定螺栓松动",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.3",
+        "": ""
+    },
+    {
+        "Item": 492.0,
+        "Defect Comment": "生产紧固百叶窗支架时扭矩过大导致变压器右角门表面凸显栽钉孔印记",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.3",
+        "": ""
+    },
+    {
+        "Item": 493.0,
+        "Defect Comment": "CR24的线1125接错位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 494.0,
+        "Defect Comment": "过程巡检中发现XC-VFD1侧板上端子牌号实线部分变为虚线不清晰的问题",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 495.0,
+        "Defect Comment": "M10的13端口处的线401压线皮子",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.4",
+        "G Code 3": "G5.4.4",
+        "": ""
+    },
+    {
+        "Item": 496.0,
+        "Defect Comment": "功率单元“PCA8”上一个一根电缆略松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.2",
+        "": ""
+    },
+    {
+        "Item": 497.0,
+        "Defect Comment": "SW1的工频触点应为常开，实际接了个常闭触点",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.4",
+        "G Code 3": "G1.4.1",
+        "": ""
+    },
+    {
+        "Item": 498.0,
+        "Defect Comment": "功率单元面板上的铜排之间搭接处缺少扭力标识",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.9",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 499.0,
+        "Defect Comment": "线120应接到CR11的4号端口，实际连接到8号端口",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 500.0,
+        "Defect Comment": "LT2的2号端口线未紧固",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 501.0,
+        "Defect Comment": "DTB1的970到CR7的7号端口缺少一个线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 502.0,
+        "Defect Comment": "MDC 带载能力弱",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 503.0,
+        "Defect Comment": "KA-FLT的3端子上的1052A接错位置，实际接到7号端子",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 504.0,
+        "Defect Comment": "风机侧板底部缺少附件标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 505.0,
+        "Defect Comment": "中性电阻上有一处铜排与电阻片的连接处螺丝未紧固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.4",
+        "": ""
+    },
+    {
+        "Item": 506.0,
+        "Defect Comment": "TUB后面的地排上有一根地线未紧固",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.2",
+        "": ""
+    },
+    {
+        "Item": 507.0,
+        "Defect Comment": "风机MFN3与MFN4顺序接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 508.0,
+        "Defect Comment": "\"CR0\"继电器的头没有完全插接到继电器底座上",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 509.0,
+        "Defect Comment": "生产拆卸控制柜门上端钣金时导致栽钉折断（不记录生产问题）",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.4",
+        "": ""
+    },
+    {
+        "Item": 510.0,
+        "Defect Comment": "PS3A电源输出端正负线接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 511.0,
+        "Defect Comment": "柜门行程开关安装不到位",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 512.0,
+        "Defect Comment": "进线柜门的过门地线局部绝缘皮严重损坏，隐约可见铜线芯，疑似被夹了",
+        "L Code": "L3",
+        "G Code 1": "G5",
+        "G Code2": "G5.1",
+        "G Code 3": "G5.1.1",
+        "": ""
+    },
+    {
+        "Item": 513.0,
+        "Defect Comment": "变压器柜左后侧，缺少党风胶垫固定孔。（挡风胶垫脱落）",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 514.0,
+        "Defect Comment": "Slot 7 TB 2 端子ROC,R1C短接线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 515.0,
+        "Defect Comment": "中间相电压低",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 516.0,
+        "Defect Comment": "931C应接PLC4的COM0上，实际接到VI-1端子",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 517.0,
+        "Defect Comment": "触摸屏A2上的402与DTB2的402之间缺少连接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 518.0,
+        "Defect Comment": "进线柜隔离开关接地螺丝紧固后，螺栓长度不够没有旋出安装螺母",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.8",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 519.0,
+        "Defect Comment": "控制柜主控板上缺少端子排（微断开关左侧）",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.3",
+        "G Code 3": "G1.3.1",
+        "": ""
+    },
+    {
+        "Item": 520.0,
+        "Defect Comment": "PLC8的COM7点短接线缺失",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 521.0,
+        "Defect Comment": "变压器左后侧挡风胶垫未固定",
+        "L Code": "L3",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.2",
+        "": ""
+    },
+    {
+        "Item": 522.0,
+        "Defect Comment": "CR24 6,7,8点117A 缺线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 523.0,
+        "Defect Comment": "CB5上口10线号错，应为14",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.4",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 524.0,
+        "Defect Comment": "PJ1连屏线插头固定卡扣位置安装错误",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.5",
+        "G Code 3": "G1.5.2",
+        "": ""
+    },
+    {
+        "Item": 525.0,
+        "Defect Comment": "scr assy 的2P凤凰端子上的白色线缆脱落",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 526.0,
+        "Defect Comment": "功率柜内有遗留扎带",
+        "L Code": "L4",
+        "G Code 1": "G3",
+        "G Code2": "G3.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 527.0,
+        "Defect Comment": "UPS的端子5上的1653至KP_1_PIO3的位置接错",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 528.0,
+        "Defect Comment": "XC-VFD1端子排的942最后一节缺少短接线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 529.0,
+        "Defect Comment": "功率柜内缺少加热器标识”EH-CSH2\"",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 530.0,
+        "Defect Comment": "控制柜右侧的线槽上有污渍",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 531.0,
+        "Defect Comment": "Barton Test",
+        "L Code": "L3",
+        "G Code 1": "G4",
+        "G Code2": "G4.1",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 532.0,
+        "Defect Comment": "PS5A的L和N接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 533.0,
+        "Defect Comment": "GP-BUFFER上缺少一根接地线",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 534.0,
+        "Defect Comment": "UPS 输出线400,402接串位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 535.0,
+        "Defect Comment": "转换开关401环线松动",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.5",
+        "G Code 3": "G5.5.1",
+        "": ""
+    },
+    {
+        "Item": 536.0,
+        "Defect Comment": "Barton Test double check station",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.1",
+        "": ""
+    },
+    {
+        "Item": 537.0,
+        "Defect Comment": "FB-FAN-TPC空开与辅助触点联动不牢固",
+        "L Code": "L4",
+        "G Code 1": "G1",
+        "G Code2": "G1.6",
+        "G Code 3": "G1.6.1",
+        "": ""
+    },
+    {
+        "Item": 538.0,
+        "Defect Comment": "PLC9端子2至DTB2的402少线，不通",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.3",
+        "G Code 3": "G5.3.1",
+        "": ""
+    },
+    {
+        "Item": 539.0,
+        "Defect Comment": "缺少Bucket标识",
+        "L Code": "L4",
+        "G Code 1": "G4",
+        "G Code2": "G4.3",
+        "G Code 3": "N/A -N",
+        "": ""
+    },
+    {
+        "Item": 540.0,
+        "Defect Comment": "VFT1端子3A与14接反",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 541.0,
+        "Defect Comment": "KA-SD-STAT-BP 18点1235线 与1241线串位置",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    },
+    {
+        "Item": 542.0,
+        "Defect Comment": "电容异常",
+        "L Code": "L1",
+        "G Code 1": "G1",
+        "G Code2": "G1.1",
+        "G Code 3": "G1.1.2",
+        "": ""
+    },
+    {
+        "Item": 543.0,
+        "Defect Comment": "ps5上的线502位置接错，应接﹣，实际接+",
+        "L Code": "L4",
+        "G Code 1": "G5",
+        "G Code2": "G5.7",
+        "G Code 3": "G5.7.2",
+        "": ""
+    }
+]
